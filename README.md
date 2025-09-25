@@ -1,4 +1,4 @@
-# STACK IMPLEMENTATION USING ARRAY
+# Stack Implementation Using Array
 
 **Aim:**
 To study and implement **Stack** using arrays with the following menu options:
